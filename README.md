@@ -64,8 +64,11 @@ Precision — correctness of churn predictions
 Recall — ability to detect churn cases
 
 F1 Score — balance between precision and recall
+
 ROC-AUC — ranking quality of predictions
+
 Confusion Matrix — class-wise prediction breakdown
+
 Using multiple metrics ensures balanced evaluation beyond simple accuracy.
 
 Results:
