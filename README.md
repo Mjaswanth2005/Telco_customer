@@ -38,6 +38,7 @@ This split allows reliable performance evaluation while maximizing training data
 Model Training:
 
 Logistic Regression (Baseline):
+
 <img width="734" height="590" alt="image" src="https://github.com/user-attachments/assets/df69f016-c2b2-4119-bfaa-50f37353149d" />
 
 Numerical features scaled
@@ -46,6 +47,7 @@ Provides a linear reference model
 
 
 Random Forest (Improved Model):
+
 <img width="734" height="590" alt="image" src="https://github.com/user-attachments/assets/50607778-346a-42ed-8e36-4b9576c613d4" />
 
 Ensemble tree-based model
