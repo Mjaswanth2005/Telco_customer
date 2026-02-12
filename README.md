@@ -1,5 +1,5 @@
 Telco Customer Churn Prediction
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Overview
 This project builds and evaluates machine learning models to predict customer churn in a telecom dataset. The objective is to identify customers likely to leave the service so that proactive retention strategies can be implemented.
 
